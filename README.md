@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ram7979
-- 👀 I’m interested in ...Python,C,C++,HTML,CSS
+- 👀 I’m interested in ...Python,C,C++,HTML,CSS,Machine Learning,AI,Colude computing.
 - 🌱 I’m currently learning ...Pyhon,HTML,CSS,Java Script
 - 💞️ I’m looking to collaborate on ...Data scientist,Cloud computing
 - 📫 How to reach me ...@tatarao.sisti999@gmail.com
