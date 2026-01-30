@@ -17,10 +17,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ram7979.Ram7979&"  />
-</div>
-
 ###
 
 <h1 align="center">hey there 👋 , I'm Ram Naidu Sisti  <br><br>💡 Passionate about **Software Development, Machine Learning & AI**  <br>🚀 Love building real-world projects and learning by doing</h1>
